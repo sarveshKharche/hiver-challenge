@@ -14,5 +14,21 @@
   {
     "incoming": "How do I invite a teammate to my workspace?",
     "reply": "Hi there,\n\nInviting a teammate is easy! Just go to Settings > Team, and click the 'Invite Member' button in the top right. You can enter their email address there.\n\nLet me know if you need any further assistance.\n\nBest,\nSupport Team"
+  },
+  {
+    "incoming": "Do you integrate with Slack? We'd love to get notifications there.",
+    "reply": "Hi there,\n\nYes, we do! You can set up the Slack integration by navigating to Settings > Integrations > Slack. From there, just click 'Connect' and follow the on-screen instructions to authorize the app.\n\nLet me know if you need help setting it up.\n\nBest,\nSupport Team"
+  },
+  {
+    "incoming": "Are there any discounts available for registered non-profits?",
+    "reply": "Hello,\n\nAbsolutely! We proudly offer a 50% discount on all our plans for registered non-profits. To get started, please reply to this email with a copy of your 501(c)(3) documentation or equivalent proof of non-profit status, and we'll apply the discount to your account right away.\n\nBest regards,\nSupport Team"
+  },
+  {
+    "incoming": "The CSV export feature is broken. When I click export, nothing happens.",
+    "reply": "Hi,\n\nI'm so sorry you're experiencing this issue. Our engineering team is aware of a bug affecting CSV exports on certain browser versions, and they are actively working on a hotfix. In the meantime, as a workaround, you can try using Chrome or Firefox in Incognito mode.\n\nI will update you as soon as this is fully resolved.\n\nBest,\nSupport Team"
+  },
+  {
+    "incoming": "We are growing and need to upgrade from Pro to the Business plan. How do we do that?",
+    "reply": "Hi there,\n\nThat's great news! To upgrade to the Business plan, the account owner can simply go to Settings > Billing and click on 'Change Plan'. From there, select 'Business Plan' and confirm. The billing will be prorated automatically.\n\nLet us know if you have any questions about the new features!\n\nBest,\nSupport Team"
   }
 ]

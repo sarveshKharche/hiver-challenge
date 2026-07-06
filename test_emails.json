@@ -10,5 +10,25 @@
   {
     "id": "email_003",
     "incoming": "I want to cancel my account. Your service is too expensive."
+  },
+  {
+    "id": "email_004",
+    "incoming": "Do you have any plans to integrate with Jira? Our whole engineering team uses it."
+  },
+  {
+    "id": "email_005",
+    "incoming": "Under GDPR, I would like to request the complete deletion of all my data from your servers."
+  },
+  {
+    "id": "email_006",
+    "incoming": "What are the API rate limits on the Pro plan? I keep getting a 429 error."
+  },
+  {
+    "id": "email_007",
+    "incoming": "We need a custom Enterprise contract with SAML SSO. Who can I talk to?"
+  },
+  {
+    "id": "email_008",
+    "incoming": "Hey, just wanted to say your tool is amazing! It saved our team so much time last week. Thanks!"
   }
 ]
