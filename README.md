@@ -43,3 +43,6 @@ Instead, I implemented an **LLM-as-a-judge** system. I use a strict prompt to as
    ```
 
 The script will generate replies to the test emails in `test_emails.json` and then evaluate them, outputting a detailed `evaluation_report.json` with per-response scores and an overall system accuracy percentage.
+
+## Use of AI Tools
+This entire challenge was completed via an autonomous pair-programming session with an AI coding assistant. The AI helped bootstrap the initial architecture, rapidly author the synthetic dataset, write the `google-genai` integration code for generation and evaluation, and identify edge cases (like API rate-limits requiring a `time.sleep` backoff) all within the 100-minute constraint.
