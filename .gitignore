@@ -1,0 +1,5 @@
+.env
+__pycache__/
+*.pyc
+evaluation_report.json
+generated_replies.json

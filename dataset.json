@@ -1,0 +1,18 @@
+[
+  {
+    "incoming": "Hi, I forgot my password and can't log in to my account. Please help.",
+    "reply": "Hi there,\n\nThanks for reaching out! To reset your password, please click the 'Forgot Password' link on the login page, or follow this direct link: [Link].\n\nLet me know if you run into any issues.\n\nBest,\nSupport Team"
+  },
+  {
+    "incoming": "I was charged twice for my subscription this month. This is unacceptable.",
+    "reply": "Hi,\n\nI sincerely apologize for the double charge. I've just processed a refund for the extra charge, which should appear on your statement in 3-5 business days. \n\nWe've also added a $10 credit to your account for the inconvenience.\n\nBest regards,\nSupport Team"
+  },
+  {
+    "incoming": "Do you have a dark mode feature? My eyes hurt looking at the bright screen.",
+    "reply": "Hello,\n\nThanks for your feature request! We completely understand the need for a dark mode. Our engineering team is actually working on this right now, and we expect to roll it out in our next major update next month.\n\nThanks for your patience!\n\nBest,\nSupport Team"
+  },
+  {
+    "incoming": "How do I invite a teammate to my workspace?",
+    "reply": "Hi there,\n\nInviting a teammate is easy! Just go to Settings > Team, and click the 'Invite Member' button in the top right. You can enter their email address there.\n\nLet me know if you need any further assistance.\n\nBest,\nSupport Team"
+  }
+]

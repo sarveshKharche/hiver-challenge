@@ -1,0 +1,14 @@
+[
+  {
+    "id": "email_001",
+    "incoming": "My app keeps crashing when I try to upload a PDF file. Please fix this."
+  },
+  {
+    "id": "email_002",
+    "incoming": "Can I get a discount if I sign up for the annual plan instead of monthly?"
+  },
+  {
+    "id": "email_003",
+    "incoming": "I want to cancel my account. Your service is too expensive."
+  }
+]
